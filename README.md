@@ -19,7 +19,7 @@ This project allows users to manage books — add, view, search, update, delete,
 ## 🛠️ Tech Stack
 - **Language:** Java  
 - **Concepts Used:** OOP (Classes, Objects, Encapsulation), File Handling, Collections Framework (ArrayList), Exception Handling  
-- **IDE Used:** IntelliJ IDEA / Eclipse / VS Code  
+- **IDE Used:** IntelliJ IDEA 
 
 ---
 
